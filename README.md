@@ -10,4 +10,4 @@ Keterangan:
 6. Menerapkan Image Data Generator untuk mempersiapkan data latih
 7. Pelatihan data latih menggunakan Model Sequential
 8. Klasifikasi gambar dapat dilakukan melalui media upload di Google Colabs
-9. Tingkat akurasi diatas 90%
+9. Tingkat akurasi diatas 90% 
