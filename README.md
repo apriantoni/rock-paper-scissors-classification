@@ -8,6 +8,6 @@ Keterangan:
 4. Menggunakan TensorFlow dan Keras Library, beserta library lainnya untuk mendukung proses komputasi yang dilakukan 
 5. Menerapkan proses Augmentasi Gambar untuk menciptakan data-data gambar baru yang sesuai untuk format algoritma yang digunakan.
 6. Menerapkan Image Data Generator untuk mempersiapkan data latih
-7. Pelatihan data menggunakan Model Sequential
+7. Pelatihan data latih menggunakan Model Sequential
 8. Klasifikasi gambar dapat dilakukan melalui media upload di Google Colabs
 9. Tingkat akurasi sebesar 99%
