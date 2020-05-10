@@ -11,4 +11,3 @@ Keterangan:
 7. Pelatihan data latih menggunakan Model Sequential
 8. Klasifikasi gambar dapat dilakukan melalui media upload di Google Colabs
 9. Tingkat akurasi diatas 90%
-10. Demo dapat dilakukan di sini : https://colab.research.google.com/drive/1bFONAljee2CgweFlaAzNGeHHtS9Zwrb1?usp=sharing
