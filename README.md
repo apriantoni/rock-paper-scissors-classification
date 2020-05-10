@@ -1,4 +1,4 @@
-# rock-paper-scissors-classifiction
+# rock-paper-scissors-classification
 Rock-Paper-Scissors Image Classification with Sequential Model (Deep Learning) in TensorFlow and Keras Library using Google Colabs
 
 Keterangan:
