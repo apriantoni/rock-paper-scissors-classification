@@ -1,5 +1,5 @@
 # rock-paper-scissors-classification
-Klasfikasi Gambar Rock-Paper-Scissors dengan Model Sequential (Deep Learning) menggunakan TensorFlow and Keras Library pada Google Colabs
+Klasifikasi Gambar Rock-Paper-Scissors dengan Model Sequential (Deep Learning) menggunakan TensorFlow and Keras Library pada Google Colabs
 
 Keterangan:
 1. Dataset diambil dari https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip . Dataset berisi 2.188 gambar rock-paper-scissor, yang terdiri dari 726 gambar rock, 712 gambar paper, dan 750 gambar scissors
